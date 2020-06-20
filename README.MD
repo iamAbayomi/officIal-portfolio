@@ -4,5 +4,3 @@
 * My Portfolio. 
 * Blog.
 * Contact Info.
-
-  
